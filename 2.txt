@@ -1,0 +1,6 @@
+ADF
+Databricks
+Synapse
+Azure SQL MI
+
+Change-2
